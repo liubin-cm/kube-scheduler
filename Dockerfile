@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-controller-manager:v1.3.7
+FROM gcr.io/google_containers/kube-scheduler:v1.3.7
